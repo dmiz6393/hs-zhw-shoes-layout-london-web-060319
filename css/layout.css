@@ -40,6 +40,11 @@
   margin-left: 0%;
 }
 
+.first {
+  margin-left: 0%;
+  clear: both;
+}
+
 .contact_border_right {
   display: table-cell;
   border-right: 1px dotted #ccc;
@@ -62,10 +67,7 @@
   padding: 1em
 }
 
-first {
-  margin-left: 0%;
-  clear: both;
-}
+
 
 
 
