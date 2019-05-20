@@ -58,11 +58,11 @@
   border-right: 1px dotted #ccc;
   width: 33em;
   margin-right: 13px;
-  padding: 1em;
+ 
 }
 
  .follow {
- 
+  display: table-cell;
   width: 33.33em;
   margin-right: 13px;
   padding: 1em
