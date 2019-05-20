@@ -27,11 +27,13 @@
 .featured-brands{ 
   float: left;
   width: 66%;
+  margin-left: 2%;
 } 
 
 .shoes_archive{
   float: left;
   width: 32%;
+  margin-left: 2%;
 }
 
 .col-3{
